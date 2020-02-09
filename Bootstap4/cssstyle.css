@@ -1,0 +1,23 @@
+
+ body{
+     margin-right: 20%;
+     margin-left: 20%;
+     
+ }
+ div{
+
+    height: 50%;
+    width: 100%;  
+    
+    
+}
+h1{
+    text-align: center;
+    color:white;
+}
+#collapseThree{
+    
+}
+#collapseTwo >div >button {
+background-color: green;
+}
